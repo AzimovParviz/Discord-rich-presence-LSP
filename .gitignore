@@ -1,0 +1,15 @@
+lib/
+discord/discord_game_sdk.h
+*.zip
+*.txt
+./o
+vendor/
+*.dylib
+# MacOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
